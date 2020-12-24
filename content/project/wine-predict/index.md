@@ -1,23 +1,25 @@
 ---
-title: PyCatan
-summary: An exercise to model the _Settlers of Catan_ game in python. _[Image Source](https://pixabay.com/photos/game-board-catan-leisure-340574/)_
+title: Wine Quality Predictions
+summary: Using Random Forests to predict the quality of wines. _[Image Source](https://unsplash.com/photos/aF1NPSnDQLw)_
 tags:
 - Python
-date: "2020-07-21600:00:00Z"
+- MachineLearning
+date: "2020-11-21600:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/vigneshRajakumar/Catan"
+external_link: "https://github.com/vigneshRajakumar/dsci-522-group14"
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: "Photo by Kym Ellis on Unsplash"
+  focal_point: Center
+  alt_text: "Photo by Kym Ellis on Unsplash"
 
 # links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/vigneshRajakumar/Catan"
+url_code: "https://github.com/vigneshRajakumar/dsci-522-group14"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
