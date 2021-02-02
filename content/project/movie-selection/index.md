@@ -1,25 +1,26 @@
 ---
-title: Wine Quality Predictions
-summary: (_Contributed to_) using Random Forests to predict the quality of wines. _[Image Source](https://unsplash.com/photos/aF1NPSnDQLw)_
+title: Dashboard for Movie Selection
+summary: (_Contributed to_) Building a Dashboard with Plotly and Dash. _[Image Source](https://unsplash.com/photos/EOQhsfFBhRk)_
 tags:
 - Python
-- MachineLearning
-date: "2020-11-21600:00:00Z"
+- Dash
+- Plotly
+date: "2021-01-21600:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/vigneshRajakumar/dsci-522-group14"
+external_link: "https://github.com/vigneshRajakumar/movie-selection"
 
 image:
-  caption: "Photo by Kym Ellis on Unsplash"
+  caption: "Photo by Glenn Carstens-Peters on Unsplash"
   focal_point: Center
-  alt_text: "Photo by Kym Ellis on Unsplash"
+  alt_text: "Photo by Glenn Carstens-Peters on Unsplash"
 
 # links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/vigneshRajakumar/dsci-522-group14"
+url_code: "https://github.com/vigneshRajakumar/movie-selection"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
