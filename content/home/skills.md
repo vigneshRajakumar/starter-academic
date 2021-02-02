@@ -18,37 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "70%"
+  description = "tidyverse, Rmd"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
+  description = "numpy, pandas, scipy"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
+  description = "regression, frequentist and bayesian inference"  
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "90%"
+  description = "spring boot"
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "30%"
+  description = "Scikit-Learn, PyTorch, Tensorflow"
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
